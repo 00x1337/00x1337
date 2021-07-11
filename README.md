@@ -1,19 +1,19 @@
-### ```- hi i am Hussain | #evil```
+
+### - Hi welcome my page
 
 
-```diff
-- hi i am Hussain | #evil
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
+
+`My name : Hussain`
+`My age : 17`
+`i was born : ` <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/285/flag-saudi-arabia_1f1f8-1f1e6.png" width="30px">
+```diff 
+! Programming languages that I know :
+- VB.NET
+- PYTHON
+- PHP
+- C++
+- C#
+- C
+- JAVESCRIPT
+
 ```
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
