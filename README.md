@@ -3,21 +3,15 @@
 
 
 
-`My name is : Hussain`
-`My age is : 17`
+`My name is : Hussain`<br>
+`My age is : 18`<br>
 `i was born in : ` <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/285/flag-saudi-arabia_1f1f8-1f1e6.png" width="30px">
 
 
-## Programming languages that I know :
-```python
+<img src="https://github-readme-stats.vercel.app/api?username=00x1337&count_private=true&show_icons=true&theme=radical">
+-----------------------------------------------------------------------------
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=00x1337&show_icons=true&theme=radical">
 
- VB.NET
- PYTHON
- PHP
- C++
- C#
- C
- JAVASCRIPT
-
-```
-
+<!-- <img src="https://img.shields.io/badge/-.NET-7d28cc?logo=.netgoColor=7d28cc">
+<img src="https://img.shields.io/badge/-Full Stack Developer-e861a5?logo=.netgoColor=e861a5">
+<img src="https://img.shields.io/badge/-Go-blue?logo=.netgoColor=blue"> -->
