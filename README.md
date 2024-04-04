@@ -5,8 +5,6 @@
 `My name is : Hussain`<br>
 `My age is : 19`<br>
 `PHP > Live`<br>
-`i was born in : ` 
-
 
 <img src="https://github-readme-stats.vercel.app/api?username=00x1337&count_private=true&show_icons=true&theme=radical">
 -----------------------------------------------------------------------------
